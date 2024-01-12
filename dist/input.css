@@ -90,7 +90,10 @@ nav {
 .hero .photo {
   width: 45%;
 }
-
+#main-card{
+  height: 100%;
+  width: 100%;
+}
 .choice {
   display: flex;
   flex-direction: row;
