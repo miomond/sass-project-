@@ -25,8 +25,3 @@ function rtl() {
 
 
 
-
-
-let play = "/[aeiou]/gi, ''"
-
-let plot = "/^([aeiou]|[aeiou]|).{1}\1$/g"
