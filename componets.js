@@ -61,19 +61,19 @@ function insertion() {
 
 
 
-    cont.innerHTML = ` <div class="card"><img width="460" src="./src/assets/mountains.jpg" alt="landscape photo">
+    cont.innerHTML = ` <div class="card"><img width="460" src="./assets/mountains.jpg" alt="landscape photo">
 <article>
     <h1>المنشور الاول </h1>
     <p>لورم إيبصوم ديلور سيت أميت، كونسيكتيتور أديبيسينغ إيليت، سيد دو إيوسمود تمبور إنسيديدونت يوت لابوري إت دولوري ماغنا أليكا. أت إنيم أد ، كيس نوسترود إكسرستيتاشيون أولامكو لابوريس نيسي يوت أليكويب إكس إيا كومودو كونسكوات.?</p>
 </article>
 </div>
-<div class="card"><img width="460" src="./src/assets/mountains.jpg" alt="landscape photo">
+<div class="card"><img width="460" src="./assets/mountains.jpg" alt="landscape photo">
 <article>
     <h1>المنشور الثاني </h1>
     <p>لورم إيبصوم ديلور سيت أميت، كونسيكتيتور أديبيسينغ إيليت، سيد دو إيوسمود تمبور إنسيديدونت يوت لابوري إت دولوري ماغنا أليكا. أت إنيم أد ، كيس نوسترود إكسرستيتاشيون أولامكو لابوريس نيسي يوت أليكويب إكس إيا كومودو كونسكوات.?</p>
 </article>
 </div>
-<div class="card"><img width="460" src="./src/assets/mountains.jpg" alt="landscape photo">
+<div class="card"><img width="460" src="./assets/mountains.jpg" alt="landscape photo">
 <article>
     <h1>المنشور الثالث </h1>
     <p>لورم إيبصوم ديلور سيت أميت، كونسيكتيتور أديبيسينغ إيليت، سيد دو إيوسمود تمبور إنسيديدونت يوت لابوري إت دولوري ماغنا أليكا. أت إنيم أد ، كيس نوسترود إكسرستيتاشيون أولامكو لابوريس نيسي يوت أليكويب إكس إيا كومودو كونسكوات.</p>
@@ -85,25 +85,25 @@ function insertion() {
 </article>
 <section>
 
-<div class="cardse"><div><img src="./src/assets/person1.jpg" width="120" alt=""></div>
+<div class="cardse"><div><img src="./assets/person1.jpg" width="120" alt=""></div>
     <h1>سوزان ويليامز </h1>
     <h2>قائد الكتاب  </h2>
     <h4>لورم إيبصوم ديلور سيت أميت، كونسيكتيتور أديبيسينغ إيليت، سيد دو إيوسمود تمبور إنسيديدونت يوت لابوري إت دولوري ماغنا أليك
     </h4>
 </div> 
-<div class="cardse"><div><img src="./src/assets/person2.jpg" width="120" height="120"  alt=""></div>
+<div class="cardse"><div><img src="./assets/person2.jpg" width="120" height="120"  alt=""></div>
     <h1>جرايس سميث </h1>
     <h2>زميل  </h2>
     <h4>لورم إيبصوم ديلور سيت أميت، كونسيكتيتور أديبيسينغ إيليت، سيد دو إيوسمود تمبور إنسيديدونت يوت لابوري إت دولوري ماغنا أليك
     </h4>
 </div>
-<div class="cardse"><div><img src="./src/assets/person3.jpg" width="120"  height="120" alt=""></div>
+<div class="cardse"><div><img src="./assets/person3.jpg" width="120"  height="120" alt=""></div>
     <h1>جون دوو</h1>
     <h2>متخصص تعديلات  </h2>
     <h4>لورم إيبصوم ديلور سيت أميت، كونسيكتيتور أديبيسينغ إيليت، سيد دو إيوسمود تمبور إنسيديدونت يوت لابوري إت دولوري ماغنا أليكا.
     </h4>
 </div>
-<div class="cardse"><div><img src="./src/assets/person4.jpg" width="120" height="120"  alt=""></div>
+<div class="cardse"><div><img src="./assets/person4.jpg" width="120" height="120"  alt=""></div>
     <h1>كيفن سوانسون</h1>
     <h2>مصمم </h2>
     <h4>لورم إيبصوم ديلور سيت أميت، كونسيكتيتور أديبيسينغ إيليت، سيد دو إيوسمود تمبور إنسيديدونت يوت لابوري إت دولوري ماغنا أليك
@@ -194,7 +194,7 @@ function outertion() {
 <h1>Why This Book</h1>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum fuga saepe nulla quos ad nesciunt ?</p>
 </div>`;
-    cont.innerHTML = ` <div class="card"><img width="460" src="./src/assets/mountains.jpg" alt="landscape photo">
+    cont.innerHTML = ` <div class="card"><img width="460" src="./assets/mountains.jpg" alt="landscape photo">
 <article>
     <h1>Blog Post one</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus quae magni laboriosam
@@ -202,7 +202,7 @@ function outertion() {
         necessitatibus pariatur. Voluptates at odio eos?</p>
 </article>
 </div>
-<div class="card"><img width="460" src="./src/assets/mountains.jpg" alt="landscape photo">
+<div class="card"><img width="460" src="./assets/mountains.jpg" alt="landscape photo">
 <article>
     <h1>Blog Post two</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus quae magni laboriosam
@@ -210,7 +210,7 @@ function outertion() {
         necessitatibus pariatur. Voluptates at odio eos?</p>
 </article>
 </div>
-<div class="card"><img width="460" src="./src/assets/mountains.jpg" alt="landscape photo">
+<div class="card"><img width="460" src="./assets/mountains.jpg" alt="landscape photo">
 <article>
     <h1>Blog Post three</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus quae magni laboriosam
@@ -224,25 +224,25 @@ function outertion() {
 </article>
 <section>
 
-<div class="cardse"><div><img src="./src/assets/person1.jpg" width="120" alt=""></div>
+<div class="cardse"><div><img src="./assets/person1.jpg" width="120" alt=""></div>
     <h1>Susan Williums </h1>
     <h2>Lead Writer </h2>
     <h4>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur deserunt aliquam est similique
     </h4>
 </div> 
-<div class="cardse"><div><img src="./src/assets/person2.jpg" width="120" height="120"  alt=""></div>
+<div class="cardse"><div><img src="./assets/person2.jpg" width="120" height="120"  alt=""></div>
     <h1>Grace Smith</h1>
     <h2>CoWorker </h2>
     <h4>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur deserunt aliquam est similique
     </h4>
 </div>
-<div class="cardse"><div><img src="./src/assets/person3.jpg" width="120"  height="120" alt=""></div>
+<div class="cardse"><div><img src="./assets/person3.jpg" width="120"  height="120" alt=""></div>
     <h1>John Doe</h1>
     <h2>Editor </h2>
     <h4>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur deserunt aliquam est similique
     </h4>
 </div>
-<div class="cardse"><div><img src="./src/assets/person4.jpg" width="120" height="120"  alt=""></div>
+<div class="cardse"><div><img src="./assets/person4.jpg" width="120" height="120"  alt=""></div>
     <h1>Kevien Swanson</h1>
     <h2>Designer </h2>
     <h4>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur deserunt aliquam est similique
